@@ -2,7 +2,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "window-manager",
+    name: "window_manager",
     platforms: [
         .macOS(.v10_11)
     ],
