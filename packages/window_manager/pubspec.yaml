@@ -38,5 +38,7 @@ flutter:
         pluginClass: WindowManagerPlugin
       macos:
         pluginClass: WindowManagerPlugin
+        swiftPackage:
+          path: ./macos/window_manager
       windows:
         pluginClass: WindowManagerPlugin
