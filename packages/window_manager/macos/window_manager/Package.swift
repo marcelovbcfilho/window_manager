@@ -8,7 +8,7 @@ let package = Package(
     ],
     products: [
         .library(
-            name: "window_manager",
+            name: "window-manager",
             targets: ["window_manager"]
         )
     ],
