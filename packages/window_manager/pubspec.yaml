@@ -37,7 +37,7 @@ flutter:
       linux:
         pluginClass: WindowManagerPlugin
       macos:
-        pluginClass: WindowManagerPlugin
+        dartPluginClass: WindowManagerPlugin
         swiftPackage:
           path: ./macos/window_manager
       windows:
